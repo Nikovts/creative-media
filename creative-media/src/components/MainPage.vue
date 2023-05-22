@@ -65,6 +65,7 @@ footer {
   }
 }
 .title{
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 700;
   font-size: 3.5rem;
